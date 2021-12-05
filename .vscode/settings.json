@@ -1,0 +1,9 @@
+{
+  "rust-analyzer.diagnostics.disabled": [
+    "macro-error",
+    "unresolved-proc-macro"
+  ],
+  "rust-analyzer.assist.importGranularity": "module",
+  "rust-analyzer.assist.importPrefix": "self",
+  "rust-analyzer.procMacro.enable": false,
+}
